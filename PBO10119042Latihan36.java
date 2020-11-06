@@ -7,7 +7,11 @@ package latihanpbo;
 
 /**
  *
- * @author Stks
+ * @author Muhammad RIfqu Abdillah
+ *  Nama : Muhammad Rifqu Abdillah
+ *  Kelas: Pbo-IF1
+ *  Nim : 10119042 
+ *  Deskripsi : Program ini berisi tentang target saldo tabungan
  */
 public class PBO10119042Latihan36 {
 
